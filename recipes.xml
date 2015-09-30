@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<recipes>
+	<recipe>
+		<id>1</id>
+		<name>Lemon Chicken</name>
+		<cookingtime>30 minutes</cookingtime>
+		<ingredients>
+			<item quantity="4">Chicken</item>
+			<item quantity="1" measure="tsp">Thyme</item>
+			<item quantity="1">Lemon</item>
+		</ingredients>
+	</recipe>
+	<recipe>
+		<id>2</id>
+		<name>Beef Stroganoff</name>
+		<cookingtime>30 minutes</cookingtime>
+		<ingredients>
+			<item>Beef</item>
+			<item>Mustard</item>
+			<item>Mushrooms</item>
+		</ingredients>
+	</recipe>
+	<recipe>
+		<id>3</id>
+		<name>Chicken Caesar Salad</name>
+		<cookingtime>25 minutes</cookingtime>
+		<ingredients>
+			<item>Lettuce</item>
+			<item>Chicken</item>
+			<item>Parmesan</item>
+		</ingredients>
+	</recipe>
+	<recipe>
+		<id>4</id>
+		<name>Lamb Cooked</name>
+		<cookingtime>5 minutes</cookingtime>
+		<ingredients>
+			<item quantity="1">Lamb</item>
+		</ingredients>
+	</recipe>
+	<recipe>
+		<id>5</id>
+		<name>Lamb Uncooked</name>
+		<cookingtime>0 minutes</cookingtime>
+		<ingredients>
+			<item quantity="1">Lamb</item>
+		</ingredients>
+	</recipe>
+	<recipe>
+		<id>6</id>
+		<name>Lamb Boiled</name>
+		<cookingtime>45 minutes</cookingtime>
+		<ingredients>
+			<item quantity="1">Lamb</item>
+			<item quantity="2" measure="mugs">Water</item>
+		</ingredients>
+	</recipe>
+	<recipe>
+		<id>7</id>
+		<name>Turkey Cooked</name>
+		<cookingtime>5 minutes</cookingtime>
+		<ingredients>
+			<item quantity="1">Turkey</item>
+		</ingredients>
+	</recipe>
+	<recipe>
+		<id>8</id>
+		<name>Turkey Uncooked</name>
+		<cookingtime>0 minutes</cookingtime>
+		<ingredients>
+			<item quantity="1">Turkey</item>
+		</ingredients>
+	</recipe>
+	<recipe>
+		<id>9</id>
+		<name>Turkey Boiled</name>
+		<cookingtime>45 minutes</cookingtime>
+		<ingredients>
+			<item quantity="1">Turkey</item>
+			<item quantity="2" measure="mugs">Water</item>
+		</ingredients>
+	</recipe>
+	<recipe>
+		<id>10</id>
+		<name>Camel Cooked</name>
+		<cookingtime>5 minutes</cookingtime>
+		<ingredients>
+			<item quantity="1">Camel</item>
+		</ingredients>
+	</recipe>
+	<recipe>
+		<id>11</id>
+		<name>Camel Uncooked</name>
+		<cookingtime>0 minutes</cookingtime>
+		<ingredients>
+			<item quantity="1">Camel</item>
+		</ingredients>
+	</recipe>
+	<recipe>
+		<id>12</id>
+		<name>Camel Boiled</name>
+		<cookingtime>3 hours</cookingtime>
+		<ingredients>
+			<item quantity="1">Camel</item>
+			<item quantity="2" measure="gallons">Water</item>
+		</ingredients>
+	</recipe>
+</recipes>
